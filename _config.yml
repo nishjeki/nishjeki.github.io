@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinksrv
+permalink:        pretty
+
+# Setup
+title:            NiShJeKi.com
+tagline:          'Blog by an Open-source software developer'
+description:      'Blog by an Open-source software developer'
+url:              http://nishjeki.com
+
+author:
+  name:           'Nitin Pakhide'
+  url:            https://twitter.com/nishjeki
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/nishjeki/nishjeki.github.io
+
+# Plugins
+gems:             [jekyll-paginate]
