@@ -15,7 +15,7 @@ author:
   name:           'Nitin Pakhide'
   url:            https://twitter.com/nishjeki
 
-paginate:         1
+paginate:         20
 
 # Custom vars
 version:          1.0.0

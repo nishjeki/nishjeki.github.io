@@ -1,6 +1,6 @@
 ---
+disqus: true
 layout: post
-comments: true
 title: Blog created
 ---
 
