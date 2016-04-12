@@ -37,4 +37,4 @@ There are certain things i noticed though:
 Its April and current temperature outside is nearly 40 degree C. Inside its stays comfortable throughout the day.  At night its little more warmer though and requires AC if more occupants sleeping in the same room.
 
 ### Easy to Remember
-Simple trick when to open the curtains or windows or doors is to go out and feel the temperature. If is cooler outside than inside, then its better to open up the house else keep it closed.
+Simple trick when to open the curtains or windows or doors is to go out and feel the temperature. If its cooler outside than inside, then its better to open up the house else keep it closed.
