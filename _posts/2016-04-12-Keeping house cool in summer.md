@@ -8,21 +8,24 @@ Now that I started living at home full time, the first issue I faced is the heat
 I live in Pune (Maharashtra, India). We have a duplex row house, and on the top floor I had set up my workplace. 
 <br><br>
 After couple of experiments for some days, I managed to keep the whole house cool without air conditioner or air cooler in the afternoon. Cool enough so that both my kids have a comfortable time and sleeps and play well in the afternoon.
-<br>
+
 ## The Trick
 The trick is simple and its working just fine.
+
 ### 1.  Opening the house
 In the morning around 6-7 am, I open up all the curtains and windows.  This brings the cool morning air inside which is fresh, cool and clean.  
+
 ### 2. Closing the house 
 I keep the curtains and windows opened until outside becomes hot and then close all the curtains and windows around 9-10 am.  
 <br>
 In the day time I keep the whole house closed. All windows, doors and curtains closed.  Opening only for a shorter time when required and closing it immediately.  Just keeping some small openings for circulating the outside and inside air.
+
 ### 3. Using the fans
 Whichever room is in use it only requires the fan at a medium to high speed. The air circulated by the fan feels fresh and cool throughout the day.
-<br>
+
 ## Some findings
 There are certain things i noticed though:
-<br>
+
 >1.  If there are more occupants in the same room for a long time and if the inner doors are closed then it starts stinking, better to keep the inner doors opened and fans on for good air circulation.
 <br>
 2.  In the evening or night, even when outside there's no sun and its dark, but if outside temperature is not cool and the curtains are opened then the house gets hot.
