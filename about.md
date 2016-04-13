@@ -10,4 +10,5 @@ title: About
 
 [Source](http://github.com/nishjeki/nishjeki.github.io)<br/>
 [Email](mailto:nishjeki@gmail.com) <br/>
-[Twitter](https://twitter.com/nishjeki)
+[Twitter](https://twitter.com/nishjeki)<br/>
+[LinkedIn](https://in.linkedin.com/in/nitinpakhide)
