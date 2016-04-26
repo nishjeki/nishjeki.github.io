@@ -2,6 +2,7 @@
 disqus: true
 layout: post
 title: Keeping house cool in summer 
+description: Keeping house cool in summer with windows and curtains and without air conditioner or air cooler.
 ---
 
 Now that I started living at home full time, the first issue I faced is the heat in this summer.
