@@ -24,4 +24,4 @@ github:
   repo:           https://github.com/nishjeki/nishjeki.github.io
 
 # Plugins
-gems:             [jekyll-paginate]
+gems:             [jekyll-paginate,jekyll-sitemap]
