@@ -1,7 +1,7 @@
 ---
 disqus: true
 layout: post
-title: Getting free provisioning to work for Xamarin
+title: Getting iOS Free Provisioning to work for Xamarin
 description: Fixing "No installed provisioning profiles match the installed iOS signing identities" error.  Its the bundle identifier causing trouble.
 ---
 
