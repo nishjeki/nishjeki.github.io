@@ -11,3 +11,5 @@ title: About
 [Source](http://github.com/nishjeki/nishjeki.github.io)<br/>
 [Email](mailto:nishjeki@gmail.com) <br/>
 [LinkedIn](https://in.linkedin.com/in/nitinpakhide)
+
+{% include adsense_lb.html %}

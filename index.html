@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{% include adsense_lb.html %}
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -16,7 +16,7 @@ layout: default
   </div>
   {% endfor %}
 </div>
-
+{% include adsense_lb.html %}
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
