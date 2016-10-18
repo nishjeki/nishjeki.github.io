@@ -12,4 +12,4 @@ title: About
 [Email](mailto:nishjeki@gmail.com) <br/>
 [LinkedIn](https://in.linkedin.com/in/nitinpakhide)
 
-{% include adsense_lb.html %}
+{% include infolinks.html %}
