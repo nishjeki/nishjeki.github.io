@@ -1,8 +1,15 @@
 ---
-disqus: true
-layout: post
-title: Gitbook Github Integration
-description: Gitbook and github integration.  Remember Github has the priority
+layout: page
+title:  "Gitbook Github Integration"
+subheadline:
+teaser: "Gitbook and github integration.  Remember Github has the priority."
+categories:
+    - blog
+tags:
+    - github
+    - gitbook
+    - integration
+comments: true
 ---
 
 ## Steps:

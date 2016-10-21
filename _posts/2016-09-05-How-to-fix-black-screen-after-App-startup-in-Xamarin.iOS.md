@@ -1,8 +1,15 @@
 ---
-disqus: true
-layout: post
-title: How to fix black screen after App startup in Xamarin.iOS
-description: While using storyboard in Xamarin.iOS sometimes permanent black screen appears. A simple fix is to override the Window property in AppDelegate class
+layout: page
+title:  "How to fix black screen after App startup in Xamarin.iOS"
+subheadline:
+teaser: "While using storyboard in Xamarin.iOS sometimes permanent black screen appears. A simple fix is to override the Window property in AppDelegate class."
+categories:
+    - blog
+tags:
+    - black screen
+    - Xamarin.iOS
+    - AppDelegate
+comments: true
 ---
 
 Black screen appears after App startup while using story board as:

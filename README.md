@@ -3,7 +3,7 @@
 Personal blog site of Nitin Pakhide.
 Created Using:
 
-[Lanyon](https://github.com/poole/lanyon)
+[Feeling Responsive](https://github.com/Phlow/feeling-responsive)
 
 
 ## Author

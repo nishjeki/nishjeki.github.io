@@ -1,8 +1,15 @@
 ---
-disqus: true
-layout: post
-title: Macbook Pro MD101 (2012 Model) for .NET development
-description: Performance of Macbook Pro MD101 (2012 Model) from C# .NET cross platform development point of view.
+layout: page
+title:  "Macbook Pro MD101 (2012 Model) for .NET development"
+subheadline:
+teaser: "Performance of Macbook Pro MD101 (2012 Model) from C# .NET cross platform development point of view.."
+categories:
+    - blog
+tags:
+    - macbook pro 2012
+    - performance
+    - .net
+comments: true
 ---
 
 I recently purchased a Macbook Pro - MD101 (2012 Model).  Well, it is quite an old model, but considering the price and upgradeability, its best suited for my need.  I got it for Rs. 61,499 on flipkart.com.

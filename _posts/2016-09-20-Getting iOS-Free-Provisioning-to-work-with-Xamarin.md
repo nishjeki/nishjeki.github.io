@@ -1,8 +1,15 @@
 ---
-disqus: true
-layout: post
-title: Getting iOS Free Provisioning to work for Xamarin
-description: Fixing "No installed provisioning profiles match the installed iOS signing identities" error.  Its the bundle identifier causing trouble.
+layout: page
+title:  "Getting iOS Free Provisioning to work for Xamarin"
+subheadline:
+teaser: "Fixing 'No installed provisioning profiles match the installed iOS signing identities' error.  Its the bundle identifier causing trouble."
+categories:
+    - blog
+tags:
+    - Free provisioning
+    - Xamarin
+    - bundle identifier
+comments: true
 ---
 
 While using a device such as iPhone or iPad for debugging with Xamarin Studio it gives error as:

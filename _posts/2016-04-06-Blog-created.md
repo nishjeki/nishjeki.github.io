@@ -1,8 +1,12 @@
 ---
-disqus: true
-layout: post
-title: Blog created
-description: The first one, nothing before this.
+layout: page
+title:  "Blog created"
+subheadline:
+teaser: "The first one, nothing before this."
+categories:
+    - blog
+tags:
+    - blank
+    - blog
+comments: true
 ---
-
-The first one, nothing before this.
