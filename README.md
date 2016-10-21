@@ -1,9 +1,8 @@
 # nishjeki.com
 
 Personal blog site of Nitin Pakhide.
-Created Using:
 
-[Feeling Responsive](https://github.com/Phlow/feeling-responsive)
+Created Using: [Feeling Responsive](https://github.com/Phlow/feeling-responsive)
 
 
 ## Author
