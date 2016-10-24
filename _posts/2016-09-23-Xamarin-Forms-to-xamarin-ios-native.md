@@ -37,7 +37,7 @@ public partial class AppDelegate : UIApplicationDelegate
 ```
 
 See in action here:
-
+<br>
 <iframe width="420" height="315" src="http://www.youtube.com/embed/-Q4VQ0i6fQ4" frameborder="0" allowfullscreen></iframe>
 Why override Window property?
-Check [this](http://nishjeki.github.io/2016/09/05/How-to-fix-black-screen-after-App-startup-in-Xamarin.iOS) out.
+Check [this](http://nishjeki.github.io/blog/How-to-fix-black-screen-after-App-startup-in-Xamarin.iOS) out.
