@@ -7,14 +7,14 @@ tags:
 - virtual box
 - resolution
 - mac os
-layout: page
+comments: true
 subheadline: 
 teaser: Fixing resolution issue with Virtual box on Mac OS as host and Windows 10
   or Debian Linux as guest OS.
-comments: true
+layout: page
 ---
 
-Just installing a Virtual Box application and installing guest Operating systems won't provide required resolutions.
+Just installing a Virtual Box application and installing guest Operating systems won't provide required resolutions..
 
 This is true in case of both Windows OS and Linux OS as guest and Mac OS as host.
 
