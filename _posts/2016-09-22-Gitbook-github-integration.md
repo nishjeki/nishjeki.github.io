@@ -1,14 +1,15 @@
 ---
-layout: page
-title:  "Gitbook Github Integration"
-subheadline:
-teaser: "Gitbook and github integration.  Remember Github has the priority."
+title: Gitbook Github Integration
+date: 2016-09-22 00:00:00 Z
 categories:
-    - blog
+- blog
 tags:
-    - github
-    - gitbook
-    - integration
+- github
+- gitbook
+- integration
+layout: page
+subheadline: 
+teaser: Gitbook and github integration.  Remember Github has the priority.
 comments: true
 ---
 

@@ -1,14 +1,16 @@
 ---
-layout: page
-title:  "Xamarin.Forms to native Xamarin.iOS conversion"
-subheadline:
-teaser: "Converting Xamarin.Forms to native Xamarin.iOS app using storyboard.  Requires some attention in overriding Window property in AppDelegate."
+title: Xamarin.Forms to native Xamarin.iOS conversion
+date: 2016-09-23 00:00:00 Z
 categories:
-    - blog
+- blog
 tags:
-    - Xamarin Forms
-    - Xamarin native
-    - convert
+- Xamarin Forms
+- Xamarin native
+- convert
+layout: page
+subheadline: 
+teaser: Converting Xamarin.Forms to native Xamarin.iOS app using storyboard.  Requires
+  some attention in overriding Window property in AppDelegate.
 comments: true
 ---
 

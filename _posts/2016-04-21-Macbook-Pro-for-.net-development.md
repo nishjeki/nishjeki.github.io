@@ -1,14 +1,16 @@
 ---
-layout: page
-title:  "Macbook Pro MD101 (2012 Model) for .NET development"
-subheadline:
-teaser: "Performance of Macbook Pro MD101 (2012 Model) from C# .NET cross platform development point of view.."
+title: Macbook Pro MD101 (2012 Model) for .NET development
+date: 2016-04-21 00:00:00 Z
 categories:
-    - blog
+- blog
 tags:
-    - macbook pro 2012
-    - performance
-    - .net
+- macbook pro 2012
+- performance
+- ".net"
+layout: page
+subheadline: 
+teaser: Performance of Macbook Pro MD101 (2012 Model) from C# .NET cross platform
+  development point of view..
 comments: true
 ---
 

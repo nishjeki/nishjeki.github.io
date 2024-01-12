@@ -1,15 +1,18 @@
 ---
-layout: page
-title:  "CS1503 Xamarin.Forms.Application error"
-subheadline:
-teaser: "While adding a UWP app an error might be encountered as CS1503:Cannot convert from [type] to type Xamarin.Forms.Application for UWP'. Just make sure to use the correct App class."
+title: CS1503 Xamarin.Forms.Application error
+date: 2017-03-16 00:00:00 Z
 categories:
-    - blog
+- blog
 tags:
-    - CS1503
-    - Xamarin.Forms.Application
-    - UWP
-    - Xamarin Forms
+- CS1503
+- Xamarin.Forms.Application
+- UWP
+- Xamarin Forms
+layout: page
+subheadline: 
+teaser: While adding a UWP app an error might be encountered as CS1503:Cannot convert
+  from [type] to type Xamarin.Forms.Application for UWP'. Just make sure to use the
+  correct App class.
 comments: true
 ---
 

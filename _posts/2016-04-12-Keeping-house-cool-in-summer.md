@@ -1,14 +1,16 @@
 ---
-layout: page
-title:  "Keeping house cool in summer"
-subheadline:
-teaser: "Keeping house cool in summer with windows and curtains and without air conditioner or air cooler."
+title: Keeping house cool in summer
+date: 2016-04-12 00:00:00 Z
 categories:
-    - blog
+- blog
 tags:
-    - house
-    - summer
-    - cool
+- house
+- summer
+- cool
+layout: page
+subheadline: 
+teaser: Keeping house cool in summer with windows and curtains and without air conditioner
+  or air cooler.
 comments: true
 ---
 

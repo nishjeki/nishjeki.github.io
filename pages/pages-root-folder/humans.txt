@@ -1,9 +1,10 @@
 ---
-layout: null
-title: "Staff Information"
-source: "http://humanstxt.org/Standard.html"
-permalink: /humans.txt
+title: Staff Information
+permalink: "/humans.txt"
+layout: 
+source: http://humanstxt.org/Standard.html
 ---
+
 /* TEAM */
 {% for author_entry in site.data.authors %}{% assign author = author_entry[1] %}
 Name: {% if author.name %}{{ author.name }}{% else %}{{ site.author }}{% endif %}{% if author.siteroles %}

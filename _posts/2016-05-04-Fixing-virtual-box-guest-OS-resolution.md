@@ -1,14 +1,16 @@
 ---
-layout: page
-title:  "Fixing virtual box guest OS resolution"
-subheadline:
-teaser: "Fixing resolution issue with Virtual box on Mac OS as host and Windows 10 or Debian Linux as guest OS."
+title: Fixing virtual box guest OS resolution
+date: 2016-05-04 00:00:00 Z
 categories:
-    - blog
+- blog
 tags:
-    - virtual box
-    - resolution
-    - mac os
+- virtual box
+- resolution
+- mac os
+layout: page
+subheadline: 
+teaser: Fixing resolution issue with Virtual box on Mac OS as host and Windows 10
+  or Debian Linux as guest OS.
 comments: true
 ---
 
