@@ -31,7 +31,7 @@ credits: <p>Created with &hearts; by <a href="http://nishjeki.github.io/">Nitin 
   Responsive</a>.</p>
 author: nishjeki
 url: http://nishjeki.github.io
-baseurl: ''
+baseurl: 
 improve_content: 
 urlimg: http://nishjeki.github.io/images/
 logo: logo.png
@@ -89,7 +89,7 @@ socialmedia:
 disqus_shortname: nishjeki
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 google_analytics_tracking_id: UA-76013338-1
 asciidoctor-enabled: false
 asciidoctor:
