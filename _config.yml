@@ -1,0 +1,100 @@
+---
+title: NiShJeKi
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    show_meta: false
+    comments: false
+    author: nishjeki
+- scope:
+    path: ''
+    type: posts
+  values:
+    show_meta: true
+    comments: false
+    author: nishjeki
+slogan: A dive in the Open world
+description: This site provides helpful information regarding software development,
+  especially with C# language and open source programming.
+credits: <p>Created with &hearts; by <a href="http://nishjeki.github.io/">Nitin Pakhide</a>
+  with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling
+  Responsive</a>.</p>
+author: nishjeki
+url: http://nishjeki.github.io
+baseurl: 
+improve_content: 
+urlimg: http://nishjeki.github.io/images/
+logo: logo.png
+gems:
+- jekyll-asciidoc
+- jekyll-gist
+- jekyll-paginate
+paginate: 5
+paginate_path: blog/page:num
+markdown: kramdown
+permalink: "/:categories/:title/"
+highlight: rouge
+excerpt_separator: "<!--more-->"
+include:
+- ".htaccess"
+exclude:
+- ".sass-cache"
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- INSTALL.md
+language: en
+compress_html:
+  clippings: all
+  comments:
+  - "<!-- "
+  - " -->"
+  endings: all
+  profile: false
+  ignore:
+    envs:
+    - development
+google_author: 
+google_site_verification: 
+bing_webmastertools_id: 
+favicon-32x32: favicon-32x32.png
+touch-icon-192x192: touch-icon-192x192.png
+apple-touch-icon-180x180-precomposed: apple-touch-icon-180x180-precomposed.png
+apple-touch-icon-152x152-precomposed: apple-touch-icon-152x152-precomposed.png
+apple-touch-icon-144x144-precomposed: apple-touch-icon-144x144-precomposed.png
+apple-touch-icon-120x120-precomposed: apple-touch-icon-120x120-precomposed.png
+apple-touch-icon-114x114-precomposed: apple-touch-icon-114x114-precomposed.png
+apple-touch-icon-76x76-precomposed: apple-touch-icon-76x76-precomposed.png
+apple-touch-icon-72x72-precomposed: apple-touch-icon-72x72-precomposed.png
+apple-touch-icon-precomposed: apple-touch-icon-precomposed.png
+msapplication_tileimage: msapplication_tileimage.png
+msapplication_tilecolor: "#fabb00"
+og_image: 
+og_locale: en_EN
+og_type: website
+socialmedia:
+  twitter: nishjeki
+  facebook: 
+disqus_shortname: nishjeki
+sass:
+  sass_dir: _sass
+  style: compressed
+google_analytics_tracking_id: UA-76013338-1
+asciidoctor-enabled: false
+asciidoctor:
+  description: testtewtetrue
+  attributes:
+    source-highlighter: coderay
+    coderay-css: style
+    icons: font
